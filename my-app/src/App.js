@@ -140,6 +140,30 @@ const pauseAudio = () => {
     // } else if (contadorDerrotas >= 5 && contadorDerrotas < 7) {
     //   setIncrivel('https://i.pinimg.com/236x/fb/29/56/fb2956e925ef817e82203897a69e699a.jpg');
     // }
+
+    /*
+    imagens em sequencia
+
+    boas
+    https://i.pinimg.com/236x/ec/e9/fb/ece9fbaff26d460b5abafbf6d1bdd40f.jpg
+    https://i.pinimg.com/236x/5c/97/52/5c9752e01b907bb655dfa043c4faf6dc.jpg
+    
+    neutro 
+    https://i.pinimg.com/236x/ae/2f/2d/ae2f2d3be50269e19ebb2d53c1c4b3f9.jpg
+    https://i.pinimg.com/236x/81/9d/3d/819d3dce0441f53fa7232dcbc0c40fdf.jpg
+
+    ruins 
+    https://i.pinimg.com/236x/fb/29/56/fb2956e925ef817e82203897a69e699a.jpg
+    https://i.pinimg.com/236x/0d/61/11/0d6111abed9cd51b09294fd27ff56be6.jpg
+    https://i.pinimg.com/236x/ff/2e/02/ff2e0218be0890572cc13596a7e45cbb.jpg
+    https://i.pinimg.com/236x/8d/b6/bb/8db6bb1d597920100c58a2d70c864fd3.jpg
+    https://i.pinimg.com/236x/96/f1/fe/96f1fe857218bc99540af8a2f51cdbfc.jpg
+    https://i.pinimg.com/236x/e4/dc/a8/e4dca847978d7224b53855a33de7a226.jpg
+    https://i.pinimg.com/236x/8b/b6/24/8bb624e42a9fdc9bffc6f98ee74439b3.jpg
+
+
+    
+    */
   
     const porcentagemVitorias = (contadorVitorias / totalJogadas) * 100;
     
