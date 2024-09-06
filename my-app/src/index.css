@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  width: 100vw;
+  background-color: #00FF00; /* Cor verde do cassino */
+  background-image: url('https://img1.picmix.com/output/stamp/normal/2/4/9/1/1661942_cbf06.gif');
+  background-size: cover; /* Garante que o GIF cobre toda a área visível */
+  background-repeat: no-repeat; /* Evita repetição do GIF */
+  background-attachment: fixed; /* Faz o GIF fixar-se ao fundo enquanto rola o conteúdo */
+  background-position: center; /* Centraliza o GIF */
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
